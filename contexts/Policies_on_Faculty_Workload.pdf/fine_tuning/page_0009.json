@@ -1,0 +1,157 @@
+{
+  "page_number": 9,
+  "source_page": 9,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 517.3,
+      "y": 37.799999999999955,
+      "w": 6.083999999999946,
+      "h": 12.0,
+      "text": "9",
+      "_last_y": 37.799999999999955
+    },
+    {
+      "kind": "Table",
+      "x": 196.83200000000002,
+      "y": 72.2399999999999,
+      "w": 326.34802,
+      "h": 517.9900100000001,
+      "text": "| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 616.3,
+      "w": 428.47399999999993,
+      "h": 12.0,
+      "text": "Section 6 Faculty member(s) with seasonal/occasional designations"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 632.26,
+      "w": 304.58400000000006,
+      "h": 12.0,
+      "text": "shall carry the regular load of 24 units in a semester."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 648.3399999999999,
+      "w": 304.79600000000005,
+      "h": 12.0,
+      "text": "However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that is done after office hours and during weekends."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 720.2199999999999,
+      "w": 428.45000000000005,
+      "h": 12.0,
+      "text": "Section 7 Faculty member(s) with seasonal/occasional designations"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 736.1759999999999,
+      "w": 304.7280000000002,
+      "h": 12.0,
+      "text": "shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate"
+    }
+  ],
+  "fixed_blocks": [
+    {
+      "kind": "Text",
+      "text": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate"
+    }
+  ],
+  "qa_pairs": [
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "What is the maximum load of academic program chairpersons?",
+      "answer": "3 release hours for 300 students and below, plus an additional 1 hour for every 100 students in the program."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "What is the designation of the unit head in charge of security services?",
+      "answer": "Unit Head, Security Services."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "How many units do faculty members with seasonal/occasional designations carry in a semester?",
+      "answer": "24 units."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "What is the formal request form for rendering overtime services?",
+      "answer": "Authority to render overtime."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "Who has the authority to note the attached form for rendering overtime services?",
+      "answer": "The immediate supervisor."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "What are the strict constraints for generating Q&A pairs?",
+      "answer": "Must generate 20 Q&A pairs, at least 8. Questions must be based on the extracted context only in the selected page. Answers must be precise, concise, and 100% accurate according to the context. Format the output as a JSON list of objects, where each object has exactly two keys: 'question' and 'answer'. Do not wrap the JSON in markdown code blocks."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "What is the purpose of the Shipboard Training Officer (STO) designation?",
+      "answer": "To provide training for shipboard operations."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "How many hours of overtime pay are entitled to faculty members with seasonal/occasional designations?",
+      "answer": "For overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "Who is responsible for approving the Authority to render overtime?",
+      "answer": "The immediate supervisor."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "What is the maximum load of academic program chairpersons in a semester?",
+      "answer": "3 release hours for 300 students and below, plus an additional 1 hour for every 100 students in the program."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "What is the designation of the person responsible for campus laboratory operations?",
+      "answer": "Campus Laboratory In- charge."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "How many hours of overtime pay are entitled to faculty members with seasonal/occasional designations for administrative duties and functions?",
+      "answer": "For overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "Who has the authority to render overtime services?",
+      "answer": "Faculty members with seasonal/occasional designations."
+    },
+    {
+      "page_number": 9,
+      "context": "9\n\n| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |\n\nSection 6 Faculty members with seasonal/occasional designations shall carry the regular load of 24 units in a semester. However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that it is done after office hours and during weekends.\n\nSection 7 Faculty members with seasonal/occasional designations shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate",
+      "question": "What is the purpose of the BACTWG designation?",
+      "answer": "To provide training for shipboard operations."
+    }
+  ]
+}

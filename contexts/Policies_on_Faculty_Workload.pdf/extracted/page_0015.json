@@ -1,0 +1,89 @@
+{
+  "page_number": 15,
+  "source_page": 15,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 511.3,
+      "y": 37.799999999999955,
+      "w": 12.203999999999894,
+      "h": 12.0,
+      "text": "15"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 73.81999999999994,
+      "w": 304.692,
+      "h": 12.0,
+      "text": "25.1 (a) Regular/Permanent faculty members with"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 89.77999999999997,
+      "w": 304.84400000000005,
+      "h": 12.0,
+      "text": "teaching overload in excess of 30 hours/week within office hours, teaching overload after office hours, or during weekends; b) Administrative personnel engaged in part-time teaching, regardless of employment status with teaching load after office hours or during weekends, and (c) Lecturers (full-time and part-time), on official travel, as required by University in the exigency of service."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 209.65999999999997,
+      "w": 304.904,
+      "h": 12.0,
+      "text": "25.2 They shall only be compensated of the services rendered if any of the documentary requirements is satisfied. These documents include such as but not limited to, travel order, course module(s) approved for classroom utilization that is/are given to the students prior to the scheduled travel or screenshots of the activities done in the google classroom. The immediate supervisor may require other supporting documents, if necessary."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 345.5299999999999,
+      "w": 304.72799999999995,
+      "h": 12.0,
+      "text": "25.3 The supporting documents shall no longer be"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 361.60999999999996,
+      "w": 305.078,
+      "h": 12.0,
+      "text": "attached to the Daily Time Record (DTR) of the faculty"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 377.56999999999994,
+      "w": 304.6080000000003,
+      "h": 12.0,
+      "text": "concerned. The immediate supervisor, as accountable officer, shall verify and attest to the veracity and the authenticity of the proof(s) attached."
+    },
+    {
+      "kind": "Text",
+      "x": 89.904,
+      "y": 433.50999999999993,
+      "w": 428.51,
+      "h": 12.0,
+      "text": "Section 26 The credit unit for lecture and laboratory classes is as"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 449.4699999999999,
+      "w": 40.05600000000001,
+      "h": 12.0,
+      "text": "follows:",
+      "_last_y": 449.4699999999999
+    },
+    {
+      "kind": "Table",
+      "x": 214.01,
+      "y": 475.87001,
+      "w": 309.17002,
+      "h": 293.06597,
+      "text": "| A. Instruction | Credit Unit |\n|---|---|\n| A.1 Lecture and Laboratory Classes |  |\n| For every hour lecture/week in the undergraduate level | 1.0 |\n| For every 1 hour of laboratory work (for courses with laboratory) Note: A 3-unit course with laboratory will have corresponding WL with the formula below: WL = LeCUh+LaCUh Where: WL = Workload LeCU = Lecture credit unit LaCU Laboratory credit unit | 6 |"
+    }
+  ]
+}

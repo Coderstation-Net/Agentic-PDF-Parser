@@ -1,0 +1,225 @@
+{
+  "page_number": 11,
+  "source_page": 11,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 511.3,
+      "y": 37.799999999999955,
+      "w": 12.203999999999894,
+      "h": 12.0,
+      "text": "11",
+      "_last_y": 37.799999999999955
+    },
+    {
+      "kind": "Table",
+      "x": 213.76999999999998,
+      "y": 72.2399999999999,
+      "w": 309.41002000000003,
+      "h": 333.1699950000001,
+      "text": "| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 431.34999999999997,
+      "w": 428.45000000000016,
+      "h": 12.0,
+      "text": "Section 9 Faculty members with administrative designations"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 447.42999999999995,
+      "w": 304.6560000000002,
+      "h": 12.000000000000057,
+      "text": "required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 559.27,
+      "w": 130.056,
+      "h": 12.0,
+      "text": "the University President."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 583.27,
+      "w": 428.3180000000002,
+      "h": 12.0,
+      "text": "Section 10 Should the designation be revoked for reasonable"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 599.26,
+      "w": 304.62000000000023,
+      "h": 12.0,
+      "text": "ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 631.18,
+      "w": 304.6320000000002,
+      "h": 12.0,
+      "text": "Resource Management Officer a copy of the revocation"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 647.26,
+      "w": 304.898,
+      "h": 12.0,
+      "text": "order for the conversion of the sick/vacation credits to service credits."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 687.22,
+      "w": 428.75199999999995,
+      "h": 12.0,
+      "text": "Section 11 No faculty member shall be designated to a non-"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 703.18,
+      "w": 304.922,
+      "h": 12.0,
+      "text": "seasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the"
+    }
+  ],
+  "fixed_blocks": [
+    {
+      "kind": "Text",
+      "text": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the"
+    }
+  ],
+  "qa_pairs": [
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What positions can faculty members with administrative designations request approval for?",
+      "answer": "Faculty members with administrative designations can request approval for sick/vacation leave credits, according to Section 9 of the policy."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "Who must approve a request for earning sick/vacation leave credits?",
+      "answer": "The request must be duly noted by the immediate supervisor(s) and requires final approval from the University President."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What happens if an administrative designation is revoked?",
+      "answer": "The appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of sick/vacation credits to service credits, according to Section 10."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "Can faculty members with administrative designations be designated to nonseasonal/occasional administrative positions?",
+      "answer": "No, faculty members cannot be designated to nonseasonal/occasional administrative positions within/during the regular duration of classes, according to Section 11."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What is the format for requesting approval for earning sick/vacation leave credits?",
+      "answer": "The request must be formally requested and duly noted by the immediate supervisor(s), according to Section 9."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "Who is responsible for communicating revocation orders?",
+      "answer": "The appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order, according to Section 10."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What is the duration of classes for which faculty members cannot be designated to nonseasonal/occasional administrative positions?",
+      "answer": "The regular duration of classes."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "Who must concur with a request for earning sick/vacation leave credits?",
+      "answer": "At least a month before the start of classes."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What is the purpose of Section 10 of the policy?",
+      "answer": "To convert sick/vacation credits to service credits in case of revocation of administrative designations."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "Can faculty members with administrative designations earn sick/vacation leave credits during semestral break and midyear break?",
+      "answer": "Yes, according to Section 9."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What is the role of the Human Resource Management Officer in relation to revocation orders?",
+      "answer": "The Human Resource Management Officer must receive a copy of the revocation order, according to Section 10."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "How many months before the start of classes should a request for earning sick/vacation leave credits be made?",
+      "answer": "At least a month before the start of classes."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What is the purpose of Section 9 of the policy?",
+      "answer": "To allow faculty members with administrative designations to earn sick/vacation leave credits during semestral break and midyear break."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "Can faculty members with administrative designations request approval for more than one type of leave credit?",
+      "answer": "No, according to Section 9."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What is the maximum number of sick/vacation leave credits that can be earned by a faculty member with an administrative designation?",
+      "answer": "The maximum number of sick/vacation leave credits that can be earned is specified in the policy."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "How many months must pass before a revoked administrative designation becomes effective?",
+      "answer": "According to Section 10, the revocation order becomes effective after the duration of classes."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What is the purpose of Section 11 of the policy?",
+      "answer": "To prohibit faculty members with administrative designations from being designated to nonseasonal/occasional administrative positions within/during the regular duration of classes."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "Can a faculty member with an administrative designation request approval for leave credits retroactively?",
+      "answer": "No, according to Section 9."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "How many times can a faculty member with an administrative designation request approval for leave credits in a year?",
+      "answer": "There is no limit specified in the policy."
+    },
+    {
+      "page_number": 11,
+      "context": "11\n\n| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |\n\nSection 9 Faculty members with administrative designations required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from the University President.\n\nSection 10 Should the designation be revoked for reasonable ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human Resource Management Officer a copy of the revocation order for the conversion of the sick/vacation credits to service credits.\n\nSection 11 No faculty member shall be designated to a nonseasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the",
+      "question": "What is the minimum duration of service required to earn sick/vacation leave credits?",
+      "answer": "According to Section 9, there is no minimum duration of service required to earn sick/vacation leave credits."
+    }
+  ]
+}

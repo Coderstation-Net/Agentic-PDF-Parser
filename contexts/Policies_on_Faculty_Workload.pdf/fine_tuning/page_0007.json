@@ -1,0 +1,175 @@
+{
+  "page_number": 7,
+  "source_page": 7,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 517.3,
+      "y": 37.799999999999955,
+      "w": 6.083999999999946,
+      "h": 12.0,
+      "text": "7"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 73.81999999999994,
+      "w": 428.2700000000001,
+      "h": 12.0,
+      "text": "Section 4 In a special case that a lecture and a laboratory course"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 89.77999999999997,
+      "w": 304.6200000000001,
+      "h": 12.0,
+      "text": "are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 145.69999999999993,
+      "w": 428.6379999999999,
+      "h": 12.0,
+      "text": "Section 5 Faculty member(s) with non-seasonal/occasional"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 161.77999999999997,
+      "w": 304.5720000000001,
+      "h": 12.0,
+      "text": "designations shall avail of the release hours in the performance of duties and functions attached to the administrative work."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 217.69999999999993,
+      "w": 277.812,
+      "h": 12.0,
+      "text": "Table VI.2 Non-Seasonal/Occasional Designation",
+      "_last_y": 217.69999999999993
+    },
+    {
+      "kind": "Table",
+      "x": 196.832,
+      "y": 241.45999999999992,
+      "w": 326.34802000000013,
+      "h": 503.8360100000001,
+      "text": "| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |"
+    }
+  ],
+  "fixed_blocks": [
+    {
+      "kind": "Text",
+      "text": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |"
+    }
+  ],
+  "qa_pairs": [
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "What is the maximum number of release hours that a Vice President can avail for administrative work?",
+      "answer": "24 hours."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "Can a Campus Director opt to take teaching and/or research load?",
+      "answer": "Yes."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "How many required teaching load units do Dean (undergraduate & graduate programs) have?",
+      "answer": "12 units."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "What is the minimum number of earning sick/vacation leave credits for a University Director (Academic Programs, Research & Extension, KTTO)?",
+      "answer": "12 credits."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "Are Associate Deans eligible to take teaching and/or research load?",
+      "answer": "Yes."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "What is the maximum number of release hours that an Associate Dean can avail for administrative work?",
+      "answer": "12 hours."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "Can a Dean (undergraduate & graduate programs) opt to take teaching and/or research load?",
+      "answer": "Yes."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "How many required teaching load units do University Directors (Academic Programs, Research & Extension, KTTO) have?",
+      "answer": "12 units."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "Are Vice Presidents eligible to take earning sick/vacation leave?",
+      "answer": "Yes."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "How many release hours can a Campus Director avail for administrative work?",
+      "answer": "24 hours."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "Can a Dean (undergraduate & graduate programs) avail of the release hours in the performance of duties and functions attached to the administrative work?",
+      "answer": "Yes."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "How many required teaching load units do University Directors (Academic Programs, Research & Extension, KTTO) have for non-seasonal/occasional designations?",
+      "answer": "12 units."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "Are Associate Deans eligible to take administrative work?",
+      "answer": "Yes."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "How many release hours can an Associate Dean avail for administrative work?",
+      "answer": "12 hours."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "Can a Vice President avail of the release hours in the performance of duties and functions attached to the administrative work?",
+      "answer": "Yes."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "How many required teaching load units do Dean (undergraduate & graduate programs) have for non-seasonal/occasional designations?",
+      "answer": "12 units."
+    },
+    {
+      "page_number": 7,
+      "context": "7 Section 4 In a special case that a lecture and a laboratory course are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation.\n\nSection 5 Faculty member(s) with non-seasonal/occasional designations shall avail of the release hours in the performance of duties and functions attached to the administrative work.\n\nTable VI.2 Non-Seasonal/Occasional Designation\n\n| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |",
+      "question": "Are University Directors (Academic Programs, Research & Extension, KTTO) eligible to take administrative work?",
+      "answer": "Yes."
+    }
+  ]
+}

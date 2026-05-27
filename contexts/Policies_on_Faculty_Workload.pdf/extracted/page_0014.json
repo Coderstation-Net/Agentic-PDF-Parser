@@ -1,0 +1,73 @@
+{
+  "page_number": 14,
+  "source_page": 14,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 511.3,
+      "y": 37.799999999999955,
+      "w": 12.203999999999894,
+      "h": 12.0,
+      "text": "14"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 73.81999999999994,
+      "w": 304.7160000000001,
+      "h": 12.0,
+      "text": "administrative personnel or even from other agencies/entities with the prescribed workload as follows:"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 113.77999999999997,
+      "w": 243.056,
+      "h": 12.0,
+      "text": "Table VI.4 Teaching Overload for Lecturers",
+      "_last_y": 113.77999999999997
+    },
+    {
+      "kind": "Table",
+      "x": 214.01,
+      "y": 138.8599999999999,
+      "w": 309.17002,
+      "h": 431.57001000000014,
+      "text": "| Human Resource | Workload |\n|---|---|\n| 1. faculty without administrative designation | maximum of 10 teaching hours overload or as followed by their respective PSGs in a semester across programs |\n| 2. faculty with administrative designation (regardless of release hours) | maximum of 6 teaching hours overload in a semester across programs |\n| 3.regular administrative personnel | maximum of 6 teaching hours in a semester across programs |\n| 4. administrative support staff-COS | maximum of 15 teaching hours in a semester |\n| 5. government- employed VL (part- time) | maximum of 15 teaching hours/or as allowed by the mother agency in a semester across programs |\n| 6. privately employed VL (part- time) | Maximum of 15 teaching hours/or as allowed by the mother agency in a semester across programs |"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 588.46,
+      "w": 428.3660000000001,
+      "h": 12.0,
+      "text": "Section 24 The maximum number of teaching hours for lecturers shall"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 604.42,
+      "w": 304.84400000000005,
+      "h": 12.0,
+      "text": "likewise be stretched reasonably in special case(s) when the number of units handled and the corresponding teaching hours could not be reduced nor split (Illustration: 12 units + additional 4-unit course=16 units equivalent to 16 teaching hours)."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 692.38,
+      "w": 428.30600000000015,
+      "h": 12.0,
+      "text": "Section 25 The following shall be compensated of the teaching"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 708.3399999999999,
+      "w": 304.808,
+      "h": 12.0,
+      "text": "services rendered via asynchronous mode of delivery, while on official travel, provided that the conditions set have been satisfied:"
+    }
+  ]
+}

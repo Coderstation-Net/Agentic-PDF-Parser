@@ -1,0 +1,6 @@
+pdfplumber
+Pillow
+pytest
+click
+openai
+ollama

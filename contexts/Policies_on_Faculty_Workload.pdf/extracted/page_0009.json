@@ -1,0 +1,65 @@
+{
+  "page_number": 9,
+  "source_page": 9,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 517.3,
+      "y": 37.799999999999955,
+      "w": 6.083999999999946,
+      "h": 12.0,
+      "text": "9",
+      "_last_y": 37.799999999999955
+    },
+    {
+      "kind": "Table",
+      "x": 196.83200000000002,
+      "y": 72.2399999999999,
+      "w": 326.34802,
+      "h": 517.9900100000001,
+      "text": "| Chairperson, Laboratory High School | 6 | 18 | x |\n|---|---|---|---|\n| Academic Program Chairpersons (3 release hours for 300 students and below, an additional 1 hour for every 100 students in the program) | 3 | 21 | x |\n| Administrative Campus Level- BACTWG | 3 | 21 | x |\n| Campus Laboratory In- charge | 3 | 21 | x |\n| Unit Head, Security Services | 3 | 21 | ✓ |\n| College Secretaries | 3 | 21 | ✓ |\n| Shipboard Training Officer (STO) | 0 | 40 | ✓ |"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 616.3,
+      "w": 428.47399999999993,
+      "h": 12.0,
+      "text": "Section 6 Faculty member(s) with seasonal/occasional designations"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 632.26,
+      "w": 304.58400000000006,
+      "h": 12.0,
+      "text": "shall carry the regular load of 24 units in a semester."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 648.3399999999999,
+      "w": 304.79600000000005,
+      "h": 12.0,
+      "text": "However, they shall be entitled to an overtime pay for the overtime services rendered in the performance of administrative duties and functions, provided that is done after office hours and during weekends."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 720.2199999999999,
+      "w": 428.45000000000005,
+      "h": 12.0,
+      "text": "Section 7 Faculty member(s) with seasonal/occasional designations"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 736.1759999999999,
+      "w": 304.7280000000002,
+      "h": 12.0,
+      "text": "shall make a formal request with the attached form (Authority to render overtime) duly noted by the immediate"
+    }
+  ]
+}

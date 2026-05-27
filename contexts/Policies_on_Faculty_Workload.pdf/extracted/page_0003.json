@@ -1,0 +1,97 @@
+{
+  "page_number": 3,
+  "source_page": 3,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 517.3,
+      "y": 37.799999999999955,
+      "w": 6.083999999999946,
+      "h": 12.0,
+      "text": "3"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 73.81999999999994,
+      "w": 99.17999999999998,
+      "h": 12.0,
+      "text": "III. Terms Defined"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 97.81999999999994,
+      "w": 304.93399999999997,
+      "h": 12.0,
+      "text": "Compensatory Overtime Credits (COCs) – are any"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 113.77999999999997,
+      "w": 304.80000000000007,
+      "h": 12.0,
+      "text": "units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/ lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 201.7399999999999,
+      "w": 304.994,
+      "h": 12.0,
+      "text": "Seasonal/Occasional Designations – refer to"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 217.69999999999993,
+      "w": 304.65600000000006,
+      "h": 12.0,
+      "text": "designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 273.65,
+      "w": 304.74,
+      "h": 12.0,
+      "text": "Teaching Load (TL) refers to actual teaching loads given"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 289.6099999999999,
+      "w": 304.86799999999994,
+      "h": 12.0,
+      "text": "to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 353.54599999999994,
+      "w": 58.176000000000016,
+      "h": 12.0,
+      "text": "Illustration :",
+      "_last_y": 353.54599999999994
+    },
+    {
+      "kind": "Table",
+      "x": 219.5900025,
+      "y": 400.00999499999995,
+      "w": 303.5300175000001,
+      "h": 97.22000000000003,
+      "text": "| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |"
+    },
+    {
+      "kind": "Table",
+      "x": 219.5900025,
+      "y": 545.7099799999999,
+      "w": 303.5300175000001,
+      "h": 158.6700000000002,
+      "text": "| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |"
+    }
+  ]
+}

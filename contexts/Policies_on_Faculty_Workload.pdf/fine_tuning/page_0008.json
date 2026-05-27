@@ -1,0 +1,129 @@
+{
+  "page_number": 8,
+  "source_page": 8,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 517.3,
+      "y": 37.799999999999955,
+      "w": 6.083999999999946,
+      "h": 12.0,
+      "text": "8",
+      "_last_y": 37.799999999999955
+    },
+    {
+      "kind": "Table",
+      "x": 196.83200000000002,
+      "y": 72.2399999999999,
+      "w": 326.34802,
+      "h": 673.17601,
+      "text": "| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |"
+    }
+  ],
+  "fixed_blocks": [
+    {
+      "kind": "Text",
+      "text": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |"
+    }
+  ],
+  "qa_pairs": [
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "What is the role of a University Director in terms of security services?",
+      "answer": "The University Director oversees and directs all aspects of security services, including emergency response planning and execution."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "Who is responsible for managing the FabLab at our university?",
+      "answer": "The FabLab Manager is responsible for managing the FabLab and ensuring its smooth operation."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "What is the purpose of the Administrative Campus Level-BAC Chair & Members?",
+      "answer": "The Administrative Campus Level-BAC Chair & Members are responsible for overseeing and coordinating various administrative functions across the campus."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "How many units are headed by a Unit Head in our university?",
+      "answer": "There are 8 units headed by a Unit Head in our university."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "What is the role of a Center Director in terms of research?",
+      "answer": "The Center Director oversees and directs all aspects of research conducted at the center."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "Who is responsible for managing the Registrar's office?",
+      "answer": "The Unit Head of the Registrar's office is responsible for managing the office and ensuring its smooth operation."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "What is the purpose of Quality Assurance in our university?",
+      "answer": "Quality Assurance is responsible for ensuring that the university meets high standards of quality in all aspects of its operations."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "How many levels of management exist in our university?",
+      "answer": "There are 3 levels of management in our university: campus, department, and unit."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "What is the role of a Publication Manager in terms of The Threshold?",
+      "answer": "The Publication Manager oversees and directs all aspects of The Threshold, including its editorial content and production."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "Who is responsible for managing the Guidance Services at our university?",
+      "answer": "The Unit Head of Guidance Services is responsible for managing the services and ensuring their smooth operation."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "What is the purpose of Extension in our university?",
+      "answer": "Extension is responsible for providing educational opportunities to students beyond the traditional classroom setting."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "How many units are headed by a Unit Head in terms of Research?",
+      "answer": "There are 6 units headed by a Unit Head in terms of Research in our university."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "What is the role of a Security Services Director in terms of emergency response planning and execution?",
+      "answer": "The Security Services Director oversees and directs all aspects of emergency response planning and execution, including crisis management and incident response."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "Who is responsible for managing the CeMarSec at our university?",
+      "answer": "The Center Director of CeMarSec is responsible for managing the center and ensuring its smooth operation."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "What is the purpose of NSTP in our university?",
+      "answer": "NSTP stands for National Service Training Program, which is responsible for providing training and development opportunities to students."
+    },
+    {
+      "page_number": 8,
+      "context": "8\n\n| University Director (UDRMMS, IGP, Security Services) | 9 | 15 | ✓ |\n|---|---|---|---|\n| Center Director, CeMarSec, RCCPCW, and the like | 9 | 15 | ✓ |\n| Unit Head, Research | 6 | 15 | ✓ |\n| Unit Head, Extension | 6 | 15 | ✓ |\n| Unit Head, CDRMMS | 6 | 18 | ✓ |\n| Unit Head, Registrar | 6 | 18 | ✓ |\n| Unit Head, IGP | 6 | 18 | ✓ |\n| Unit Head, NSTP | 6 | 18 | x |\n| Unit Head, Quality Assurance | 6 | 18 | ✓ |\n| Unit Head, Guidance Services | 6 | 18 | ✓ |\n| Administrative Campus Level-BAC Chair & Members | 6 | 18 | x |\n| Publication Manager (The Threshold) | 6 | 18 | x |\n| FabLab Manager | 6 | 18 | x |",
+      "question": "How many units are headed by a Unit Head in terms of Extension?",
+      "answer": "There are 6 units headed by a Unit Head in terms of Extension in our university."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "page_number": 7,
+  "source_page": 7,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 517.3,
+      "y": 37.799999999999955,
+      "w": 6.083999999999946,
+      "h": 12.0,
+      "text": "7"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 73.81999999999994,
+      "w": 428.2700000000001,
+      "h": 12.0,
+      "text": "Section 4 In a special case that a lecture and a laboratory course"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 89.77999999999997,
+      "w": 304.6200000000001,
+      "h": 12.0,
+      "text": "are handled/taught by two separate instructor/professor, the lecture and laboratory courses shall be treated differently and be considered one (1) preparation."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 145.69999999999993,
+      "w": 428.6379999999999,
+      "h": 12.0,
+      "text": "Section 5 Faculty member(s) with non-seasonal/occasional"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 161.77999999999997,
+      "w": 304.5720000000001,
+      "h": 12.0,
+      "text": "designations shall avail of the release hours in the performance of duties and functions attached to the administrative work."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 217.69999999999993,
+      "w": 277.812,
+      "h": 12.0,
+      "text": "Table VI.2 Non-Seasonal/Occasional Designation",
+      "_last_y": 217.69999999999993
+    },
+    {
+      "kind": "Table",
+      "x": 196.832,
+      "y": 241.45999999999992,
+      "w": 326.34802000000013,
+      "h": 503.8360100000001,
+      "text": "| Designations | Release Hours | Required Teaching Load (in units) | Earning Sick/Vacation Leave Credits |\n|---|---|---|---|\n| Vice President | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Campus Director | 24 | (may opt to take teaching and/or research load) | ✓ |\n| Dean (under- graduate & graduate programs) | 12 | 12 | ✓ |\n| Associate Dean | 12 | 12 | ✓ |\n| University Director (Academic Programs, Research & Extension, KTTO) | 12 | 12 | ✓ |"
+    }
+  ]
+}

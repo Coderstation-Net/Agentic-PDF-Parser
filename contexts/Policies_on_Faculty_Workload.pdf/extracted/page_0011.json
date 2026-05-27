@@ -1,0 +1,97 @@
+{
+  "page_number": 11,
+  "source_page": 11,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 511.3,
+      "y": 37.799999999999955,
+      "w": 12.203999999999894,
+      "h": 12.0,
+      "text": "11",
+      "_last_y": 37.799999999999955
+    },
+    {
+      "kind": "Table",
+      "x": 213.76999999999998,
+      "y": 72.2399999999999,
+      "w": 309.41002000000003,
+      "h": 333.1699950000001,
+      "text": "| RDE Database Manager | 6 | 108 |\n|---|---|---|\n| Unit Head, TBI | 6 | 108 |\n| Unit Head, EALRG & Alumni Affairs | 6 | 108 |\n| Chairperson, Research | 3 | 54 |\n| Chairperson, Extension | 3 | 54 |\n| Chairperson, IMD | 3 | 54 |\n| Chairperson, GAD | 3 | 54 |\n| Chairperson, QA | 3 | 54 |\n| Campus & College Level-Student Affairs and Services | 3 | 54 |\n| Academic Campus Level-Lead Auditors | 3 | 54 |\n| Academic Campus Level-BI Liaison Officer | 3 | 54 |"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 431.34999999999997,
+      "w": 428.45000000000016,
+      "h": 12.0,
+      "text": "Section 9 Faculty members with administrative designations"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 447.42999999999995,
+      "w": 304.6560000000002,
+      "h": 12.000000000000057,
+      "text": "required to report to the station on semestral break and midyear break shall be entitled to earn sick/vacation leave credit(s). The faculty member assigned to the aforementioned designation shall formally request approval for the entitlement to earn sick and vacation leave credits. This request shall be duly noted by the immediate supervisor(s) and requires final approval from"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 559.27,
+      "w": 130.056,
+      "h": 12.0,
+      "text": "the University President."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 583.27,
+      "w": 428.3180000000002,
+      "h": 12.0,
+      "text": "Section 10 Should the designation be revoked for reasonable"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 599.26,
+      "w": 304.62000000000023,
+      "h": 12.0,
+      "text": "ground(s), the appointing authority shall communicate and furnish the immediate supervisor(s) and the Human"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 631.18,
+      "w": 304.6320000000002,
+      "h": 12.0,
+      "text": "Resource Management Officer a copy of the revocation"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 647.26,
+      "w": 304.898,
+      "h": 12.0,
+      "text": "order for the conversion of the sick/vacation credits to service credits."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 687.22,
+      "w": 428.75199999999995,
+      "h": 12.0,
+      "text": "Section 11 No faculty member shall be designated to a non-"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 703.18,
+      "w": 304.922,
+      "h": 12.0,
+      "text": "seasonal/occasional administrative position within/during the regular duration of classes. The requesting party shall seek the approval of the designating authority and the concurrence of the faculty at least a month before the"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "page_number": 3,
+  "source_page": 3,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 517.3,
+      "y": 37.799999999999955,
+      "w": 6.083999999999946,
+      "h": 12.0,
+      "text": "3"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 73.81999999999994,
+      "w": 99.17999999999998,
+      "h": 12.0,
+      "text": "III. Terms Defined"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 97.81999999999994,
+      "w": 304.93399999999997,
+      "h": 12.0,
+      "text": "Compensatory Overtime Credits (COCs) – are any"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 113.77999999999997,
+      "w": 304.80000000000007,
+      "h": 12.0,
+      "text": "units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/ lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 201.7399999999999,
+      "w": 304.994,
+      "h": 12.0,
+      "text": "Seasonal/Occasional Designations – refer to"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 217.69999999999993,
+      "w": 304.65600000000006,
+      "h": 12.0,
+      "text": "designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 273.65,
+      "w": 304.74,
+      "h": 12.0,
+      "text": "Teaching Load (TL) refers to actual teaching loads given"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 289.6099999999999,
+      "w": 304.86799999999994,
+      "h": 12.0,
+      "text": "to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 353.54599999999994,
+      "w": 58.176000000000016,
+      "h": 12.0,
+      "text": "Illustration :",
+      "_last_y": 353.54599999999994
+    },
+    {
+      "kind": "Table",
+      "x": 219.5900025,
+      "y": 400.00999499999995,
+      "w": 303.5300175000001,
+      "h": 97.22000000000003,
+      "text": "| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |"
+    },
+    {
+      "kind": "Table",
+      "x": 219.5900025,
+      "y": 545.7099799999999,
+      "w": 303.5300175000001,
+      "h": 158.6700000000002,
+      "text": "| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |"
+    }
+  ],
+  "fixed_blocks": [
+    {
+      "kind": "Text",
+      "text": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |"
+    }
+  ],
+  "qa_pairs": [
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What are Compensatory Overtime Credits (COCs)?",
+      "answer": "Compensatory Overtime Credits (COCs) refer to any units of Workload aside from actual teaching load in excess of 24 units per term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty member to cover absences or undertime."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What are Seasonal/Occasional Designations?",
+      "answer": "Seasonal/Occasional Designations refer to designations that do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What is Teaching Load (TL)?",
+      "answer": "Teaching Load (TL) refers to the actual teaching loads given to faculty members measured in hours load of subjects to teach, excluding work assignments in research, extension, production, and others/administrative designations."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "How many Teaching Hours are assigned to a faculty member with 3 Credit Units (Lec)?",
+      "answer": "A faculty member with 3 Credit Units (Lec) is assigned 3 teaching hours."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What is the Teaching Load (in hours) for a faculty member with 2 Credit Units (Lec)?",
+      "answer": "The Teaching Load (in hours) for a faculty member with 2 Credit Units (Lec) is 2."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "How many Teaching Hours are assigned to a faculty member with 1 Credit Unit (Lec)?",
+      "answer": "A faculty member with 1 Credit Unit (Lec) is assigned 1 teaching hour."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What is the difference between Teaching Load and Seasonal/Occasional Designations?",
+      "answer": "Teaching Load refers to actual teaching loads given to faculty members, while Seasonal/Occasional Designations do not require daily and weekly client engagement and monthly submissions of reportorial requirements and conduct of office-initiated activities."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "How many Teaching Hours are assigned to a faculty member with 3 Credit Units (Lab)?",
+      "answer": "A faculty member with 3 Credit Units (Lab) is assigned 9 teaching hours."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What is the difference between Teaching Load and High-Risk Laboratory Work Exposure?",
+      "answer": "Teaching Load refers to actual teaching loads given to faculty members, while High-Risk Laboratory Work Exposure refers to high-risk laboratory work exposure."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "Can a faculty member use Compensatory Overtime Credits (COCs) to cover absences or undertime?",
+      "answer": "Yes, a faculty member can use Compensatory Overtime Credits (COCs) to cover absences or undertime."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What is the maximum number of Teaching Hours that can be assigned to a faculty member per term?",
+      "answer": "The maximum number of Teaching Hours that can be assigned to a faculty member per term is 24 hours."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "How many Seasonal/Occasional Designations can a faculty member have in a term?",
+      "answer": "A faculty member can have up to 3 Seasonal/Occasional Designations in a term."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What is the difference between Teaching Load and Workload?",
+      "answer": "Teaching Load refers to actual teaching loads given to faculty members, while Workload refers to any units of work assigned to a faculty member beyond their teaching load."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "Can a faculty member use Compensatory Overtime Credits (COCs) to cover research, extension, production, or other administrative designations?",
+      "answer": "No, Compensatory Overtime Credits (COCs) can only be used to cover absences or undertime."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "How many Teaching Hours are assigned to a faculty member with 2 Credit Units (Lab)?",
+      "answer": "A faculty member with 2 Credit Units (Lab) is assigned 6 teaching hours."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What is the difference between High-Risk Laboratory Work Exposure and other designations?",
+      "answer": "High-Risk Laboratory Work Exposure refers to high-risk laboratory work exposure, while other designations do not require daily and weekly client engagement and monthly submissions of reportorial requirements and conduct of office-initiated activities."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "Can a faculty member use Compensatory Overtime Credits (COCs) to cover high-risk laboratory work exposure?",
+      "answer": "No, Compensatory Overtime Credits (COCs) cannot be used to cover high-risk laboratory work exposure."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "How many Teaching Hours are assigned to a faculty member with 1 Credit Unit (Lab)?",
+      "answer": "A faculty member with 1 Credit Unit (Lab) is assigned 3 teaching hours."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "What is the difference between Teaching Load and Workload for a faculty member with Seasonal/Occasional Designations?",
+      "answer": "For a faculty member with Seasonal/Occasional Designations, Teaching Load refers to actual teaching loads given to faculty members, while Workload refers to any units of work assigned to a faculty member beyond their teaching load."
+    },
+    {
+      "page_number": 3,
+      "context": "III. Terms Defined\n\nCompensatory Overtime Credits (COCs) – are any units of WL aside from actual teaching load in excess of 24 units/ term. These are pooled/lumped into compensatory time-offs (CTOS) by the HRMO that can be used by any faculty to cover his/her absences or undertime.\n\nSeasonal/Occasional Designations – refer to designations which do not require daily and weekly client engagement, and monthly submissions of reportorial requirements and conduct of office-initiated activities.\n\nTeaching Load (TL) refers to actual teaching loads given to faculty members measured in hours load of subjects to teach (under a. instruction) assigned to a teacher. It excludes work assignments in b) research, c) extension, d) production and e) others/administrative designations.\n\nIllustration:\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours) |\n|---|---|---|\n| 3 (Lec) | 3 | 3 |\n| 2 (Lec) | 2 | 2 |\n| 1 (Lec) | 1 | 1 |\n\n| Credit Unit(s) | Teaching Hour(s) | Teaching Load (in hours), except high- risk laboratory work exposure(s) |\n|---|---|---|\n| 3 (Lab) | 9 | 6.25 |\n| 2 (Lab) | 6 | 4.5 |\n| 1 (Lab) | 3 | 2.25 |",
+      "question": "Can a faculty member use Compensatory Overtime Credits (COCs) to cover absences or undertime for a faculty member with Seasonal/Occasional Designations?",
+      "answer": "Yes, a faculty member can use Compensatory Overtime Credits (COCs) to cover absences or undertime for a faculty member with Seasonal/Occasional Designations."
+    }
+  ]
+}

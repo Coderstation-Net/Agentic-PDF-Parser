@@ -1,0 +1,89 @@
+{
+  "page_number": 10,
+  "source_page": 10,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 511.3,
+      "y": 37.799999999999955,
+      "w": 12.203999999999894,
+      "h": 12.0,
+      "text": "10"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 73.81999999999994,
+      "w": 304.72400000000005,
+      "h": 12.0,
+      "text": "supervisor, campus budget officer, and approved by the"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 89.77999999999997,
+      "w": 304.68000000000006,
+      "h": 12.0,
+      "text": "Campus Director/University President prior to the"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 105.7399999999999,
+      "w": 159.35999999999999,
+      "h": 12.0,
+      "text": "rendition of overtime services."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 129.7399999999999,
+      "w": 428.42600000000004,
+      "h": 12.0,
+      "text": "Section 8 The immediate supervisor, as accountable officer, shall"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 145.69999999999993,
+      "w": 304.6440000000001,
+      "h": 12.0,
+      "text": "ascertain the number of hours rendered as indicated in the"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 161.77999999999997,
+      "w": 304.89200000000005,
+      "h": 12.0,
+      "text": "Daily Time Record (DTR) commensurate to the output(s)"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 177.7399999999999,
+      "w": 304.7640000000001,
+      "h": 12.0,
+      "text": "presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 233.65999999999997,
+      "w": 250.42799999999997,
+      "h": 12.0,
+      "text": "Table VI.3 Seasonal/Occasional Designation",
+      "_last_y": 233.65999999999997
+    },
+    {
+      "kind": "Table",
+      "x": 213.77,
+      "y": 280.129995,
+      "w": 309.41002000000015,
+      "h": 466.2459849999999,
+      "text": "| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |"
+    }
+  ]
+}

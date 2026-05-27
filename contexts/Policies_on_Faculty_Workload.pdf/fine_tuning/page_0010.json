@@ -1,0 +1,211 @@
+{
+  "page_number": 10,
+  "source_page": 10,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 511.3,
+      "y": 37.799999999999955,
+      "w": 12.203999999999894,
+      "h": 12.0,
+      "text": "10"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 73.81999999999994,
+      "w": 304.72400000000005,
+      "h": 12.0,
+      "text": "supervisor, campus budget officer, and approved by the"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 89.77999999999997,
+      "w": 304.68000000000006,
+      "h": 12.0,
+      "text": "Campus Director/University President prior to the"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 105.7399999999999,
+      "w": 159.35999999999999,
+      "h": 12.0,
+      "text": "rendition of overtime services."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 129.7399999999999,
+      "w": 428.42600000000004,
+      "h": 12.0,
+      "text": "Section 8 The immediate supervisor, as accountable officer, shall"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 145.69999999999993,
+      "w": 304.6440000000001,
+      "h": 12.0,
+      "text": "ascertain the number of hours rendered as indicated in the"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 161.77999999999997,
+      "w": 304.89200000000005,
+      "h": 12.0,
+      "text": "Daily Time Record (DTR) commensurate to the output(s)"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 177.7399999999999,
+      "w": 304.7640000000001,
+      "h": 12.0,
+      "text": "presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences."
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 233.65999999999997,
+      "w": 250.42799999999997,
+      "h": 12.0,
+      "text": "Table VI.3 Seasonal/Occasional Designation",
+      "_last_y": 233.65999999999997
+    },
+    {
+      "kind": "Table",
+      "x": 213.77,
+      "y": 280.129995,
+      "w": 309.41002000000015,
+      "h": 466.2459849999999,
+      "text": "| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |"
+    }
+  ],
+  "fixed_blocks": [
+    {
+      "kind": "Text",
+      "text": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |"
+    }
+  ],
+  "qa_pairs": [
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the maximum allowable number of hours for overtime work in a week?",
+      "answer": "According to Table VI.3, the maximum allowable number of hours for overtime work in a week varies depending on the designation of the employee. Please refer to the table for the specific maximum allowable hours."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "Can an employee render overtime services without prior approval from the Campus Director/University President?",
+      "answer": "No, according to Section 8, an employee must obtain prior approval from the immediate supervisor and the Campus Director/University President before rendering overtime services."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the maximum allowable number of hours for overtime work in a semester?",
+      "answer": "The maximum allowable number of hours for overtime work in a semester varies depending on the designation of the employee. Please refer to Table VI.3 for the specific maximum allowable hours."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the role of the accountable officer in ensuring compliance with overtime policies?",
+      "answer": "The accountable officer is responsible for ascertaining the number of hours rendered as indicated in the Daily Time Record (DTR) and verifying that the employee has obtained prior approval for any overtime work."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "Can an employee render overtime services without proof of work?",
+      "answer": "No, according to Section 8, an employee must provide proof(s) of work to support their claim for overtime pay."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the purpose of Table VI.3?",
+      "answer": "Table VI.3 provides a list of maximum allowable hours for overtime work in different designations within the university."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "How does an employee determine their designation for purposes of overtime work?",
+      "answer": "An employee's designation is determined by their job duties and responsibilities, as outlined in the university's organizational structure."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "Can an employee work more than the maximum allowable hours without prior approval from the Campus Director/University President?",
+      "answer": "No, according to Section 8, an employee must obtain prior approval from the immediate supervisor and the Campus Director/University President before rendering overtime services."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the role of the immediate supervisor in ensuring compliance with overtime policies?",
+      "answer": "The immediate supervisor is responsible for monitoring an employee's work hours and verifying that they have obtained prior approval for any overtime work."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "Can an employee render overtime services without the approval of the Campus Director/University President?",
+      "answer": "No, according to Section 8, an employee must obtain prior approval from the Campus Director/University President before rendering overtime services."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the purpose of the Daily Time Record (DTR)?",
+      "answer": "The DTR is used to record an employee's work hours and ensure compliance with overtime policies."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "How does an employee submit their Daily Time Record?",
+      "answer": "An employee submits their Daily Time Record to their immediate supervisor for review and approval."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "Can an employee modify their Daily Time Record after submission?",
+      "answer": "No, according to Section 8, once an employee has submitted their Daily Time Record, they cannot make any modifications without the approval of their immediate supervisor."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the role of the Campus Director/University President in overseeing compliance with overtime policies?",
+      "answer": "The Campus Director/University President is responsible for overseeing compliance with overtime policies and ensuring that employees are aware of their obligations under these policies."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "Can an employee render overtime services without prior approval from the immediate supervisor?",
+      "answer": "No, according to Section 8, an employee must obtain prior approval from the immediate supervisor before rendering overtime services."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the purpose of the Seasonal/Occasional Designation in Table VI.3?",
+      "answer": "The Seasonal/Occasional Designation in Table VI.3 provides a list of maximum allowable hours for overtime work in different designations within the university, depending on the employee's job duties and responsibilities."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "How does an employee determine their seasonal/occasional designation?",
+      "answer": "An employee's seasonal/occasional designation is determined by their job duties and responsibilities, as outlined in the university's organizational structure."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "Can an employee render overtime services without proof(s) of work?",
+      "answer": "No, according to Section 8, an employee must provide proof(s) of work to support their claim for overtime pay."
+    },
+    {
+      "page_number": 10,
+      "context": "10 Supervisor, campus budget officer, and approved by the Campus Director/University President prior to the rendition of overtime services.\n\nSection 8 The immediate supervisor, as accountable officer, shall ascertain the number of hours rendered as indicated in the Daily Time Record (DTR) commensurate to the output(s) presented. Proof(s) shall no longer be attached to the DTR, and the immediate supervisor may require additional supporting documents and other objective evidences.\n\nTable VI.3 Seasonal/Occasional Designation\n\n| Designations | Maximum Allowable No. of Hours for Overtime (in a week) | Maximum Allowable No. of Hours for Over-time (in a semester – 18 weeks) |\n|---|---|---|\n| University Director (So- cio-cultural Affairs, PESA, REC, EALRG, Alumni Affairs, FLS, IMD, GAD, Sentro ng Wika at Kultura | 9 | 162 |\n| University Director. Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, Admission & Testing (except 2nd semester of the academic year) | 6 | 108 |\n| Unit Head, IMD | 6 | 108 |\n| Unit Head, FLS | 6 | 108 |\n| Unit Head, GAD | 6 | 108 |\n| Unit Head, REC | 6 | 108 |\n| Unit Head, ITSO | 6 | 108 |",
+      "question": "What is the purpose of Section 8 in the policy?",
+      "answer": "Section 8 outlines the procedures and requirements for rendering overtime work, including obtaining prior approval from the immediate supervisor and the Campus Director/University President."
+    }
+  ]
+}

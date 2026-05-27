@@ -1,0 +1,183 @@
+{
+  "page_number": 6,
+  "source_page": 6,
+  "width": 595,
+  "height": 841,
+  "blocks": [
+    {
+      "kind": "Text",
+      "x": 517.3,
+      "y": 37.799999999999955,
+      "w": 6.083999999999946,
+      "h": 12.0,
+      "text": "6"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 73.81999999999994,
+      "w": 428.2940000000002,
+      "h": 12.0,
+      "text": "Section 9 The WL/TL required must be used as basis in rating the"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 89.77999999999997,
+      "w": 304.898,
+      "h": 12.0,
+      "text": "performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 121.81999999999994,
+      "w": 304.98199999999997,
+      "h": 12.0,
+      "text": "(PEI), Collective Negotiation Agreement (CNA), and other"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 137.77999999999997,
+      "w": 304.60800000000006,
+      "h": 12.0,
+      "text": "bonuses subject to existing accounting and auditing rules and regulations."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 201.7399999999999,
+      "w": 117.89999999999998,
+      "h": 12.0,
+      "text": "VI. Faculty Workload"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 225.7399999999999,
+      "w": 428.5780000000001,
+      "h": 12.0,
+      "text": "Section 1 A regular teaching load of at least twenty-four (24) units a"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 241.69999999999993,
+      "w": 304.86199999999997,
+      "h": 12.0,
+      "text": "week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions."
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 313.6099999999999,
+      "w": 428.45000000000005,
+      "h": 12.0,
+      "text": "Section 2 The teaching load of a permanent/regular faculty member"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 329.56999999999994,
+      "w": 304.736,
+      "h": 12.0,
+      "text": "shall be determined vis- à-vis the teaching preparation as follows:"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 369.5299999999999,
+      "w": 180.33599999999998,
+      "h": 12.0,
+      "text": "Table VI.1 Teaching Preparation",
+      "_last_y": 369.5299999999999
+    },
+    {
+      "kind": "Table",
+      "x": 214.01000000000002,
+      "y": 415.969995,
+      "w": 309.17002000000014,
+      "h": 279.8900149999999,
+      "text": "| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |"
+    },
+    {
+      "kind": "Text",
+      "x": 90.024,
+      "y": 721.78,
+      "w": 428.3180000000002,
+      "h": 12.0,
+      "text": "Section 3 There shall be at least fifteen (15) students to open a"
+    },
+    {
+      "kind": "Text",
+      "x": 213.77,
+      "y": 737.856,
+      "w": 305.006,
+      "h": 12.0,
+      "text": "class/course in any undergraduate program in the first- year level."
+    }
+  ],
+  "fixed_blocks": [
+    {
+      "kind": "Text",
+      "text": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level."
+    }
+  ],
+  "qa_pairs": [
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "What is the minimum teaching load required for faculty members in the first-year level?",
+      "answer": "According to Section 1 of the page, the minimum teaching load required for faculty members in the first-year level is 15 units."
+    },
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "How many students are required to open a class/course in any undergraduate program in the first-year level?",
+      "answer": "Based on Section 3 of the page, there shall be at least 15 students to open a class/course in any undergraduate program in the first-year level."
+    },
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "What is the maximum teaching load for faculty members in a week?",
+      "answer": "According to Section 2 of the page, the maximum teaching load for faculty members in a week is 40 hours."
+    },
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "How many preparations are required for faculty members with designation?",
+      "answer": "Based on Section 2 of the page, there are not more than 3 preparations required for faculty members with designation."
+    },
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "What is the teaching load range for faculty members without designation?",
+      "answer": "According to Section 2 of the page, the teaching load range for faculty members without designation is 1-2 preparations."
+    },
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "How many students are required to open a class/course in any undergraduate program in the second-year level?",
+      "answer": "Based on Section 3 of the page, there shall be at least 12 students to open a class/course in any undergraduate program in the second-year level."
+    },
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "What is the minimum teaching load required for faculty members in the second-year level?",
+      "answer": "According to Section 1 of the page, the minimum teaching load required for faculty members in the second-year level is 24 units."
+    },
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "How many hours per week are considered as service for faculty members?",
+      "answer": "Based on Section 6 of the page, hours worked beyond the regular teaching load and other duties are considered as service for faculty members."
+    },
+    {
+      "page_number": 6,
+      "context": "6 Section 9 The WL/TL required must be used as basis in rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI), Collective Negotiation Agreement (CNA), and other bonuses subject to existing accounting and auditing rules and regulations.\n\nVI. Faculty Workload\n\nSection 1 A regular teaching load of at least twenty-four (24) units a week for each faculty member shall be required, but with a maximum service of forty (40) hours a week including consultation, research, extension and quasi-teaching administrative functions.\n\nSection 2 The teaching load of a permanent/regular faculty member shall be determined vis-à-vis the teaching preparation as follows:\n\nTable VI.1 Teaching Preparation\n\n| Faculty without designation | ← |\n|---|---|\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 24 units | 1-2 preparations |\n| 21 units | 3-4 preparations |\n| 15 units and below | 5 and above |\n| Faculty with designation | ← |\n| Teaching Load (in units) | No. of Teaching Preparation(s) |\n| 18-21 units | not more than 3 preparations |\n| 12-15 units | not more than 2 preparations |\n\nSection 3: There shall be at least fifteen (15) students to open a class/course in any undergraduate program in the first-year level.",
+      "question": "What is the basis for rating the performance of faculty members for Performance-Based Bonus (PBB) and Performance Enhancement Incentives (PEI)?",
+      "answer": "According to Section 9 of the page, the basis for rating the performance of faculty members for PBB and PEI is the workload required in the Collective Negotiation Agreement (CNA)."
+    }
+  ]
+}
